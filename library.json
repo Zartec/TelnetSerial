@@ -1,0 +1,14 @@
+{
+  "name": "TelnetSerial",
+  "keywords": "logging, serial, debugging, communication, telnet",
+  "description": "An Arduino library for sending serial messages via telnet.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zartec/TelnetSerial"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif"
+  ]
+}
